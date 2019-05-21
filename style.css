@@ -16,7 +16,10 @@ body{
   padding-top: 20px;
 
 }
+<<<<<<< HEAD
   
+=======
+>>>>>>> a2a153d83b32b7b02afccb3025f946fd204b5383
 
 .input-field{  
     height: 20px;
@@ -70,6 +73,7 @@ body{
   border: 0px solid;
   color:white;
 }
+<<<<<<< HEAD
 @media screen and (max-width: 833px) {
   .input-field {
     width: 80%;
@@ -95,3 +99,5 @@ body{
     width: 100%;
   }
 }
+=======
+>>>>>>> a2a153d83b32b7b02afccb3025f946fd204b5383
